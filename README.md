@@ -10,7 +10,7 @@ The dataset utilized in this project comprises images of grapevine leaves, each 
 - Dimnit
 - Nazli
 
-## Requirements
+## Libraries
 To execute this project, you will need the following libraries and dependencies:
 - TensorFlow
 - Keras
