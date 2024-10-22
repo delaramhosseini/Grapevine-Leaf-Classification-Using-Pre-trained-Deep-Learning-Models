@@ -10,9 +10,6 @@ The dataset utilized in this project comprises images of grapevine leaves, each 
 - Dimnit
 - Nazli
 
-## Environment
-To replicate the project environment, Google Colab is recommended as it provides GPU access, facilitating faster training of deep learning models.
-
 ## Requirements
 To execute this project, you will need the following libraries and dependencies:
 - TensorFlow
